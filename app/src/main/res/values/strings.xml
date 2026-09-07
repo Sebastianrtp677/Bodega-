@@ -1,3 +1,5 @@
 <resources>
     <string name="app_name">Bodega</string>
+    <string name="presentation">Presentacion de la App</string>
+
 </resources>
